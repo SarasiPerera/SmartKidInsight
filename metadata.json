@@ -1,0 +1,6 @@
+{
+  "name": "SmartKid Insight",
+  "description": "Cross-platform early literacy and cognitive screening tool for Sinhala-speaking preschool children aged 3–6 in Sri Lanka.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
